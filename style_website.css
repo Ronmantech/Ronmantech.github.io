@@ -20,12 +20,12 @@ figcaption
   /* Font: Ubuntu */
   font-family: 'Ubuntu', sans-serif;
 
-  /* Size: 14px */
+  /* Size: 20px */
   font-size: 20px;
-}
 
-figcaption
-{
+  /* Padding: 10px from top */
   padding-top: 10px;
+
+  /* Align: Center */
   text-align: center;
 }
