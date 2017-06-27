@@ -11,3 +11,21 @@ figure
 {
   padding-top: 325px;
 }
+
+figcaption
+{
+  /* Color: pure white. */
+  color: #FFFFFF;
+
+  /* Font: Ubuntu */
+  font-family: 'Ubuntu', sans-serif;
+
+  /* Size: 14px */
+  font-size: 20px;
+}
+
+figcaption
+{
+  padding-top: 10px;
+  text-align: center;
+}
