@@ -1,8 +1,13 @@
 body
 {
   /* light grey */
-  background-color: #ededed;
+  /*background-color: #ededed;*/
 
   /* dark navy blue */
-  /*background-color: #262938;*/
+  background-color: #262938;
+}
+
+figure
+{
+  padding-top: 325px;
 }
