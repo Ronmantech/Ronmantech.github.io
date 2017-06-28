@@ -3,12 +3,14 @@ body
   /* light grey */
   /*background-color: #ededed;*/
 
-  /* dark navy blue */
+  /* dark navyblue */
   background-color: #262938;
 }
 
-figure
+img
 {
+  display: block;
+  margin: 0 auto;
   padding-top: 325px;
 }
 
