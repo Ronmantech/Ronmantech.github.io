@@ -1,3 +1,4 @@
+/* background color */
 body
 {
   /* light grey */
@@ -7,27 +8,32 @@ body
   background-color: #262938;
 }
 
+/* logo */
 img
 {
   display: block;
+
+  /* top/bott = 0; left/right = auto; */
   margin: 0 auto;
+
   padding-top: 325px;
 }
 
+/* for alt text */
+img
+{
+  /* pure white */
+  color: #FFFFFF;
+}
+
+/* caption*/
 figcaption
 {
   /* Color: pure white. */
   color: #FFFFFF;
 
-  /* Font: Ubuntu */
   font-family: 'Ubuntu', sans-serif;
-
-  /* Size: 20px */
   font-size: 20px;
-
-  /* Padding: 10px from top */
   padding-top: 10px;
-
-  /* Align: Center */
   text-align: center;
 }
