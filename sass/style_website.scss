@@ -1,34 +1,32 @@
-/* background color */
+//background color
 body
 {
-  /* light grey */
-  /*background-color: #ededed;*/
+  // light gray
+  // background-color: #ededed;
 
-  /* dark navyblue */
+  // navy blue
   background-color: #262938;
 }
 
-/* logo */
+// logo
 img
 {
   display: block;
 
-  /* top/bott = 0; left/right = auto; */
+  // top/bott = 0; left/right = auto
   margin: 0 auto;
   padding-top: 310px;
 }
 
-/* for alt text */
+// alt text
 img
 {
-  /* white */
   color: #FFFFFF;
 }
 
-/* caption*/
+
 figcaption
 {
-  /* Color: white. */
   color: #FFFFFF;
 
   font-family: 'Ubuntu', sans-serif;
@@ -37,9 +35,9 @@ figcaption
   text-align: center;
 }
 
-/* hovering over caption */
+// hover
 figcaption:hover
 {
-  /* light grey */
+  // light gray
   color: #ededed;
 }

@@ -1,34 +1,22 @@
-/* background color */
 body {
-  /* light grey */
-  /*background-color: #ededed;*/
-  /* dark navyblue */
   background-color: #262938; }
 
-/* logo */
 img {
   display: block;
-  /* top/bott = 0; left/right = auto; */
   margin: 0 auto;
   padding-top: 310px; }
 
-/* for alt text */
 img {
-  /* white */
   color: #FFFFFF; }
 
-/* caption*/
 figcaption {
-  /* Color: white. */
   color: #FFFFFF;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
   padding-top: 10px;
   text-align: center; }
 
-/* hovering over caption */
 figcaption:hover {
-  /* light grey */
   color: #ededed; }
 
 /*# sourceMappingURL=style_website.css.map */
