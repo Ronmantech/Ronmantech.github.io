@@ -3,8 +3,10 @@ body {
 
 img {
   display: block;
-  margin: 0 auto;
-  padding-top: 310px; }
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
 
 img {
   color: #FFFFFF; }
@@ -13,8 +15,8 @@ figcaption {
   color: #FFFFFF;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
-  padding-top: 10px;
-  text-align: center; }
+  text-align: center;
+  position: relative; }
 
 figcaption:hover {
   color: #ededed; }

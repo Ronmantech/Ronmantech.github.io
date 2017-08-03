@@ -13,10 +13,10 @@ body
 img
 {
   display: block;
-
-  // top/bott = 0; left/right = auto
-  margin: 0 auto;
-  padding-top: 310px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 // alt text
@@ -32,8 +32,11 @@ figcaption
 
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
-  padding-top: 10px;
+  // padding-top: 10px;
   text-align: center;
+
+  position: relative;
+
 }
 
 // hover
