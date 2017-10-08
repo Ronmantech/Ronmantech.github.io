@@ -1,24 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 body {
-  background-color: #262938; }
+  background: #EEEEF4;
+  color: #999;
+  font-family: Roboto; }
 
-img {
-  display: block;
+h1 {
+  font-weight: 100;
+  font-size: 27pt;
+  color: #E43; }
+
+p {
+  font-weight: 300; }
+
+.warning-content {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); }
-
-img {
-  color: #FFFFFF; }
-
-figcaption {
-  color: #FFFFFF;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 20px;
+  top: 25%;
+  width: 100%;
+  height: 300px;
   text-align: center;
-  position: relative; }
-
-figcaption:hover {
-  color: #ededed; }
+  margin: 0; }
 
 /*# sourceMappingURL=style_website.css.map */
